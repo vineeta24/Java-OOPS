@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72114660-91d0-42ca-ad92-f5f3dd7cd9ac" name="Changes" comment="first java file">
-      <change afterPath="$PROJECT_DIR$/src/Basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/README.md" afterDir="false" />
+    <list default="true" id="72114660-91d0-42ca-ad92-f5f3dd7cd9ac" name="Changes" comment="inheritance module">
+      <change afterPath="$PROJECT_DIR$/src/Basics/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/FavouriteHobby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -65,7 +72,28 @@
       <option name="project" value="LOCAL" />
       <updated>1735895804980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added java oops file">
+      <created>1736161538373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736161538373</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added main readme file">
+      <created>1736188927410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736188927410</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated main readme file">
+      <created>1736190281765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736190281766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +110,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="first java file" />
-    <option name="LAST_COMMIT_MESSAGE" value="first java file" />
+    <MESSAGE value="added java oops file" />
+    <MESSAGE value="added main readme file" />
+    <MESSAGE value="updated main readme file" />
+    <MESSAGE value="inheritance module" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance module" />
   </component>
 </project>
