@@ -13,7 +13,7 @@ Through inheritance, a subclass can access members of its superclass (fields and
 
 Inheritance represents the `IS-A` relationship which is also known as a parent-child relationship.
 
-To inherit from a class, use the **extends** keyword.
+To inherit from a class, use the **extends** keyword. This keyword indicates that we are making a new class that derives from an existing class.
 
 
 ## Why use inheritance in Java?
@@ -21,3 +21,6 @@ To inherit from a class, use the **extends** keyword.
 * For Code Reusability.
 
 
+## Types of Inheritance in Java
+On the basis of class, there can be three types of inheritance in java: single, multilevel and hierarchical.
+![](/src/Inheritance/typesofinheritance.jpg)
